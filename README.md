@@ -1,4 +1,4 @@
 # hello-world 
-GitHub Tutorial   
-I am learning how to use GitHub.  
-I know how to use Github and raw git  
+GitHub Tutorial<br>
+I am learning how to use GitHub.<br>
+I know how to use Github and raw git<br>
